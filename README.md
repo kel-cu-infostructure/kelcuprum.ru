@@ -1,6 +1,6 @@
 # Мой основной сайт
 
-![Frame 1 (1)](https://github.com/kel-cu-infostructure/kelcuprum.ru/assets/86980879/92db53f9-fd3f-49df-80fa-bb4ff190ae12)
+![Banner](https://kelcuprum.ru/ass/budge/alina%20budge.svg)
 
 Мой написанный сайт на чистом HTML/CSS и JS<br>
 Основном написан на Express.JS

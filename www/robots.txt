@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /utils/FirstLogonAnim
+Disallow: /tutorials/content.html
+Disallow: /posts/content.html
+Disallow: /404
+Disallow: /500
+Disallow: /404/index.html
+Disallow: /500/index.html
+Disallow: /not-found

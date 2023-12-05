@@ -1,0 +1,11 @@
+{
+    "port": 8001,
+    "domain": "kelcuprum.ru",
+    "repo": {
+        "docs": "kel-cu-infostructure/docs",
+        "post": "kel-cu-infostructure/posts"
+    },
+    "links":{
+        "api": "https://api.kelcuprum.ru/"
+    }
+}
